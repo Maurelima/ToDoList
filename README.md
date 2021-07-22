@@ -2,7 +2,7 @@
 
 ## ToDo List 
 
-Projeto de ToDo list para prática com ReactJs. 
+Projeto de ToDo list para prática com ReactJs e MongoDB.
 
 ## Passos iniciais
 
